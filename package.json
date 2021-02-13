@@ -1,0 +1,19 @@
+{
+  "name": "@lmadushan/test-pkg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lmadushan/test-pkg.git"
+  },
+  "author": "Lahiru Mirihagoda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lmadushan/test-pkg/issues"
+  },
+  "homepage": "https://github.com/Lmadushan/test-pkg#readme"
+}
